@@ -1,5 +1,4 @@
-Poll-Application using Django 
-Just finished writing my "Poll application" not scalabe (yet)  in Django. 
+Just finished writing my first application not scalabe (yet) using Django. 
 Learned the fundamentals of how backend engineering works.
 Excited to implement Django in my current project. Stay Tune!
 
